@@ -1,4 +1,3 @@
-
 DESCRIBE space_environment_dataset;
 
 SELECT AVG(`Solar_Wind_Speed_km_s`)
